@@ -66,4 +66,4 @@ function Yaris.GetImageLabelPosition(Image)
     return Vector2.new(ImagePosition.X.Offset + ImageSize.X.Offset/2, ImagePosition.Y.Offset + ImageSize.Y.Offset/2)
 end
 
-print(Yaris.GetTeamColour(game.Players.LocalPlayer))
+return Yaris
