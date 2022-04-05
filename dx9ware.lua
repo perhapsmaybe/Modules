@@ -229,3 +229,5 @@ end
 function Yaris.SetAimbotValue(Setting, Value)
     return false -- // soon 
 end 
+
+return Yaris
